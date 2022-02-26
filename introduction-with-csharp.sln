@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ThreeNumbersMax", "introduction-with-csharp\1_Seminar\2_ThreeNumbersMax\2_ThreeNumbersMax\2_ThreeNumbersMax.csproj", "{0697D720-CC1C-4578-A1E2-381FFD6B3D65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_IsEventNumber", "introduction-with-csharp\1_Seminar\3_IsEventNumber\3_IsEventNumber\3_IsEventNumber.csproj", "{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{0697D720-CC1C-4578-A1E2-381FFD6B3D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0697D720-CC1C-4578-A1E2-381FFD6B3D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0697D720-CC1C-4578-A1E2-381FFD6B3D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EBCDCAA9-43D5-47A5-B65A-EA7BF2F4E916} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{0697D720-CC1C-4578-A1E2-381FFD6B3D65} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
+		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
