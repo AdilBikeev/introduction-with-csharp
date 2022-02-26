@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ThreeNumbersMax", "introd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_IsEventNumber", "introduction-with-csharp\1_Seminar\3_IsEventNumber\3_IsEventNumber\3_IsEventNumber.csproj", "{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_AllEvenNumbers", "introduction-with-csharp\1_Seminar\4_AllEvenNumbers\4_AllEvenNumbers\4_AllEvenNumbers.csproj", "{0E1150BD-D590-44B9-A61D-5316CAE0B006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1150BD-D590-44B9-A61D-5316CAE0B006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1150BD-D590-44B9-A61D-5316CAE0B006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1150BD-D590-44B9-A61D-5316CAE0B006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1150BD-D590-44B9-A61D-5316CAE0B006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +48,7 @@ Global
 		{EBCDCAA9-43D5-47A5-B65A-EA7BF2F4E916} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{0697D720-CC1C-4578-A1E2-381FFD6B3D65} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{05E7D478-CBEB-45DD-8CC3-3B21E42C1C98} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
+		{0E1150BD-D590-44B9-A61D-5316CAE0B006} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
