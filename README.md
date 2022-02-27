@@ -5,3 +5,9 @@
 | :exclamation:  Примечание   |
 |-----------------------------------------|
 > В данном репозитории не заморачивался по культуре кода и не были предусмотрены непредварительные ситуация поведения пользователя.
+
+
+### Ссылки на решения
+
+1. [Семинар 1 "Знакомство с языком программирования С#"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/1_Seminar)
+2. [Семинар 2 "Массивы и функции в программировании"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/2_Seminar)
