@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_Seminar", "2_Seminar", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_SecondDigitNumber", "introduction-with-csharp\2_Seminar\1_SecondDigitNumber\1_SecondDigitNumber.csproj", "{17E7C62C-694B-4AAE-8582-E34560998D69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_RandomNum", "introduction-with-csharp\2_Seminar\2_RandomNum\2_RandomNum.csproj", "{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{17E7C62C-694B-4AAE-8582-E34560998D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E7C62C-694B-4AAE-8582-E34560998D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E7C62C-694B-4AAE-8582-E34560998D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{62C55FCF-88AE-4C88-A83C-43D3DDD81D9D} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{B64DB3FF-18ED-4A73-AE70-5A0B5A1040A6} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{17E7C62C-694B-4AAE-8582-E34560998D69} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
+		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
