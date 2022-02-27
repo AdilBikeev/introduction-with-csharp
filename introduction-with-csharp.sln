@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_SecondDigitNumber", "intr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_RandomNum", "introduction-with-csharp\2_Seminar\2_RandomNum\2_RandomNum.csproj", "{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ThirdDigit", "introduction-with-csharp\2_Seminar\3_ThirdDigit\3_ThirdDigit.csproj", "{28A62F70-57DB-4808-988C-5DE126FCC634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,10 @@ Global
 		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A62F70-57DB-4808-988C-5DE126FCC634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A62F70-57DB-4808-988C-5DE126FCC634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A62F70-57DB-4808-988C-5DE126FCC634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A62F70-57DB-4808-988C-5DE126FCC634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{B64DB3FF-18ED-4A73-AE70-5A0B5A1040A6} = {FCE5BBC1-D48F-4B3E-85F7-75EB8CBD2D14}
 		{17E7C62C-694B-4AAE-8582-E34560998D69} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
 		{8BE79A7E-8CB8-41BF-898B-A5623E6A3442} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
+		{28A62F70-57DB-4808-988C-5DE126FCC634} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
