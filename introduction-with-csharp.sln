@@ -34,6 +34,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_IsPalindrome", "introduct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_DistanceBetweenTwoPoints", "introduction-with-csharp\3_Seminar\2_DistanceBetweenTwoPoints\2_DistanceBetweenTwoPoints.csproj", "{31A0C716-9E06-4781-8C2C-CA4E9A425246}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_TableOfCube", "introduction-with-csharp\3_Seminar\3_TableOfCube\3_TableOfCube.csproj", "{5A0853B6-3B8D-4679-9317-5723C72335CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{31A0C716-9E06-4781-8C2C-CA4E9A425246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A0C716-9E06-4781-8C2C-CA4E9A425246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A0C716-9E06-4781-8C2C-CA4E9A425246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{7A40D93C-60BB-477F-82D8-08E3AA7230B3} = {1AA2A6EF-35C5-418C-88F9-A6EEDD59884D}
 		{5E63E0FF-4308-4344-9D5B-C583AFE74F3B} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
 		{31A0C716-9E06-4781-8C2C-CA4E9A425246} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
+		{5A0853B6-3B8D-4679-9317-5723C72335CF} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
