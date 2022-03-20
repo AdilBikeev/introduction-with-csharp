@@ -1,5 +1,9 @@
 # Описание практического задания
 
+> Решение 1-ой задачи разбито на 2 проекта: 
+> * Решение на основе строковом представлении числа: [1_IsPalindrome_String](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/3_Seminar/1_IsPalindrome)
+> * Решение на основе целого числа: [1_IsPalindrome](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/3_Seminar/1_IsPalindrome)
+
 <table>
 	<tr>
 	    <th>Задание</th>
