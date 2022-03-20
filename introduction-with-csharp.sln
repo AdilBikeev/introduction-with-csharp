@@ -32,9 +32,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Seminar", "3_Seminar", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_IsPalindrome", "introduction-with-csharp\3_Seminar\1_IsPalindrome\1_IsPalindrome.csproj", "{5E63E0FF-4308-4344-9D5B-C583AFE74F3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_DistanceBetweenTwoPoints", "introduction-with-csharp\3_Seminar\2_DistanceBetweenTwoPoints\2_DistanceBetweenTwoPoints.csproj", "{31A0C716-9E06-4781-8C2C-CA4E9A425246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_DistanceBetweenTwoPoints", "introduction-with-csharp\3_Seminar\2_DistanceBetweenTwoPoints\2_DistanceBetweenTwoPoints.csproj", "{31A0C716-9E06-4781-8C2C-CA4E9A425246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_TableOfCube", "introduction-with-csharp\3_Seminar\3_TableOfCube\3_TableOfCube.csproj", "{5A0853B6-3B8D-4679-9317-5723C72335CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_TableOfCube", "introduction-with-csharp\3_Seminar\3_TableOfCube\3_TableOfCube.csproj", "{5A0853B6-3B8D-4679-9317-5723C72335CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Seminar", "4_Seminar", "{B5A8983C-2018-46F2-87BA-61D6D0DE73AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Exponentiation", "introduction-with-csharp\4_Seminar\1_Exponentiation\1_Exponentiation.csproj", "{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +90,10 @@ Global
 		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A0853B6-3B8D-4679-9317-5723C72335CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +110,7 @@ Global
 		{5E63E0FF-4308-4344-9D5B-C583AFE74F3B} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
 		{31A0C716-9E06-4781-8C2C-CA4E9A425246} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
 		{5A0853B6-3B8D-4679-9317-5723C72335CF} = {E71DB25C-681B-44F2-A592-00F6A3DFCCA0}
+		{99E4BCC1-453B-4D1C-BEBC-6AF39245AABE} = {B5A8983C-2018-46F2-87BA-61D6D0DE73AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
