@@ -11,3 +11,6 @@
 
 1. [Семинар 1 "Знакомство с языком программирования С#"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/1_Seminar)
 2. [Семинар 2 "Массивы и функции в программировании"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/2_Seminar)
+3. [Семинар 3 "Массивы и функции в программировании"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/3_Seminar)
+4. [Семинар 4 "Функции продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/4_Seminar)
+5. [Семинар 5 "Функции продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/5_Seminar)
