@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_CountEvenNumbers", "intro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_SumNotEvenPosition", "introduction-with-csharp\5_Seminar\2_SumNotEvenPosition\2_SumNotEvenPosition.csproj", "{632209BE-8F4D-4893-9AA5-C98119423D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_DiffMinMax", "3_DiffMinMax\3_DiffMinMax.csproj", "{4534AEE0-F918-48B2-B516-06042A9FCD25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,6 +122,10 @@ Global
 		{632209BE-8F4D-4893-9AA5-C98119423D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632209BE-8F4D-4893-9AA5-C98119423D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632209BE-8F4D-4893-9AA5-C98119423D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4534AEE0-F918-48B2-B516-06042A9FCD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4534AEE0-F918-48B2-B516-06042A9FCD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4534AEE0-F918-48B2-B516-06042A9FCD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4534AEE0-F918-48B2-B516-06042A9FCD25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +147,7 @@ Global
 		{4AB9B37C-B297-41B1-B308-C30A6D3AC0F8} = {B5A8983C-2018-46F2-87BA-61D6D0DE73AB}
 		{00EC4748-E8EB-4417-8B51-0CBD55ECBDA6} = {39A33AC9-C4EE-4D3E-8369-1D90714C74BE}
 		{632209BE-8F4D-4893-9AA5-C98119423D96} = {39A33AC9-C4EE-4D3E-8369-1D90714C74BE}
+		{4534AEE0-F918-48B2-B516-06042A9FCD25} = {39A33AC9-C4EE-4D3E-8369-1D90714C74BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
