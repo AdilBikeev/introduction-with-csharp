@@ -56,6 +56,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_Seminar", "6_Seminar", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_CountPositiveNumber", "introduction-with-csharp\6_Seminar\1_CountPositiveNumber\1_CountPositiveNumber.csproj", "{4742AC8F-AD70-4628-9E2A-B726A7530110}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_PointIntersectionStraightLines", "introduction-with-csharp\6_Seminar\2_PointIntersectionStraightLines\2_PointIntersectionStraightLines.csproj", "{8FC8EA74-27E4-4EDB-873C-5907CFA19556}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +136,10 @@ Global
 		{4742AC8F-AD70-4628-9E2A-B726A7530110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4742AC8F-AD70-4628-9E2A-B726A7530110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4742AC8F-AD70-4628-9E2A-B726A7530110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC8EA74-27E4-4EDB-873C-5907CFA19556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC8EA74-27E4-4EDB-873C-5907CFA19556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC8EA74-27E4-4EDB-873C-5907CFA19556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC8EA74-27E4-4EDB-873C-5907CFA19556}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +163,7 @@ Global
 		{632209BE-8F4D-4893-9AA5-C98119423D96} = {39A33AC9-C4EE-4D3E-8369-1D90714C74BE}
 		{338BD8CE-94AF-49D1-A87E-9A22B5522B6F} = {39A33AC9-C4EE-4D3E-8369-1D90714C74BE}
 		{4742AC8F-AD70-4628-9E2A-B726A7530110} = {1B37273C-EE48-47C2-8559-50CB387FF1B0}
+		{8FC8EA74-27E4-4EDB-873C-5907CFA19556} = {1B37273C-EE48-47C2-8559-50CB387FF1B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
