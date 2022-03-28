@@ -14,3 +14,4 @@
 3. [Семинар 3 "Массивы и функции в программировании"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/3_Seminar)
 4. [Семинар 4 "Функции продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/4_Seminar)
 5. [Семинар 5 "Функции продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/5_Seminar)
+6. [Семинар 6 "Двумерные массивы и рекурсия"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/6_Seminar)
