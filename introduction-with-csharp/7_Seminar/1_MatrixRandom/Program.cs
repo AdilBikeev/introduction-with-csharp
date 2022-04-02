@@ -34,7 +34,7 @@ IReadOnlyCollection<float> GenerateRandomFloatArray(int n)
 }
 
 /// <summary>
-/// Возвращает строку из элементов массива <paramref name="array"/>.
+/// Возвращает строковое представление матриы <paramref name="matrix"/>.
 /// </summary>
 string GetStringMatrix(in IReadOnlyCollection<IReadOnlyCollection<float>> matrix)
 {
