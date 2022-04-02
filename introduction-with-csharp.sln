@@ -60,11 +60,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_PointIntersectionStraight
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_seminar", "7_seminar", "{5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_MatrixRandom", "introduction-with-csharp\7_Seminar\1_MatrixRandom\1_MatrixRandom.csproj", "{54CEBB37-CEBE-4315-BC2A-43C2F5BE89F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_MatrixRandom", "introduction-with-csharp\7_Seminar\1_MatrixRandom\1_MatrixRandom.csproj", "{54CEBB37-CEBE-4315-BC2A-43C2F5BE89F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_FindElementMatrix", "introduction-with-csharp\7_Seminar\2_FindElementMatrix\2_FindElementMatrix.csproj", "{15CF7042-62DF-477C-9B29-5304729E589C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_FindElementMatrix", "introduction-with-csharp\7_Seminar\2_FindElementMatrix\2_FindElementMatrix.csproj", "{15CF7042-62DF-477C-9B29-5304729E589C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_AvgMatrixColumnElements", "3_AvgMatrixColumnElements\3_AvgMatrixColumnElements.csproj", "{597B8BC3-0C7C-4EE9-958F-FB5935617D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_AvgMatrixColumnElements", "introduction-with-csharp\7_Seminar\3_AvgMatrixColumnElements\3_AvgMatrixColumnElements.csproj", "{FED36A13-8346-4F8D-9550-1DDE98A5174F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -156,10 +156,10 @@ Global
 		{15CF7042-62DF-477C-9B29-5304729E589C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15CF7042-62DF-477C-9B29-5304729E589C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15CF7042-62DF-477C-9B29-5304729E589C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{597B8BC3-0C7C-4EE9-958F-FB5935617D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{597B8BC3-0C7C-4EE9-958F-FB5935617D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{597B8BC3-0C7C-4EE9-958F-FB5935617D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{597B8BC3-0C7C-4EE9-958F-FB5935617D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -186,7 +186,7 @@ Global
 		{8FC8EA74-27E4-4EDB-873C-5907CFA19556} = {1B37273C-EE48-47C2-8559-50CB387FF1B0}
 		{54CEBB37-CEBE-4315-BC2A-43C2F5BE89F4} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
 		{15CF7042-62DF-477C-9B29-5304729E589C} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
-		{597B8BC3-0C7C-4EE9-958F-FB5935617D63} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
+		{FED36A13-8346-4F8D-9550-1DDE98A5174F} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
