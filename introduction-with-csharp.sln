@@ -74,6 +74,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_FindMinSumRowElements", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ProductMatrices", "introduction-with-csharp\8_Seminar\3_ProductMatrices\3_ProductMatrices.csproj", "{18AB13C8-6D0B-4651-9C93-C1DB5952731A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_ThreeDimensionalMatrix", "introduction-with-csharp\8_Seminar\4_ThreeDimensionalMatrix\4_ThreeDimensionalMatrix.csproj", "{89A30127-6AD9-4FE1-8813-4E7F98051846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,6 +182,10 @@ Global
 		{18AB13C8-6D0B-4651-9C93-C1DB5952731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18AB13C8-6D0B-4651-9C93-C1DB5952731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18AB13C8-6D0B-4651-9C93-C1DB5952731A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A30127-6AD9-4FE1-8813-4E7F98051846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A30127-6AD9-4FE1-8813-4E7F98051846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A30127-6AD9-4FE1-8813-4E7F98051846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A30127-6AD9-4FE1-8813-4E7F98051846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -210,6 +216,7 @@ Global
 		{D695C502-4363-4D2A-A580-6C8055FF1C68} = {A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}
 		{FDE6A92A-4981-4876-A75B-7B90A55323F5} = {A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}
 		{18AB13C8-6D0B-4651-9C93-C1DB5952731A} = {A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}
+		{89A30127-6AD9-4FE1-8813-4E7F98051846} = {A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
