@@ -16,3 +16,4 @@
 5. [Семинар 5 "Функции продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/5_Seminar)
 6. [Семинар 6 "Двумерные массивы и рекурсия"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/6_Seminar)
 7. [Семинар 7 "Урок 7. Как не нужно писать код. Часть 1"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/7_Seminar)
+8. [Семинар 8 "Урок 8. Как не нужно писать код. Часть 2"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/8_Seminar)
