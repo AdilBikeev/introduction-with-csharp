@@ -66,6 +66,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_FindElementMatrix", "intr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_AvgMatrixColumnElements", "introduction-with-csharp\7_Seminar\3_AvgMatrixColumnElements\3_AvgMatrixColumnElements.csproj", "{FED36A13-8346-4F8D-9550-1DDE98A5174F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_Seminar", "8_Seminar", "{A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_OrderedMatrix", "introduction-with-csharp\8_Seminar\1_OrderedMatrix\1_OrderedMatrix.csproj", "{D695C502-4363-4D2A-A580-6C8055FF1C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -160,6 +164,10 @@ Global
 		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED36A13-8346-4F8D-9550-1DDE98A5174F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D695C502-4363-4D2A-A580-6C8055FF1C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D695C502-4363-4D2A-A580-6C8055FF1C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D695C502-4363-4D2A-A580-6C8055FF1C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D695C502-4363-4D2A-A580-6C8055FF1C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -187,6 +195,7 @@ Global
 		{54CEBB37-CEBE-4315-BC2A-43C2F5BE89F4} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
 		{15CF7042-62DF-477C-9B29-5304729E589C} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
 		{FED36A13-8346-4F8D-9550-1DDE98A5174F} = {5EC934DA-DF4B-48DB-AF3B-1445EEA8B0EA}
+		{D695C502-4363-4D2A-A580-6C8055FF1C68} = {A9FF4187-11D6-4D5B-AF6F-3A8F7BDFDC88}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
