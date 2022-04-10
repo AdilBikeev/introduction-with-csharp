@@ -84,6 +84,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_SumNaturalNumbers", "intr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_AckermanFunction", "introduction-with-csharp\9_Seminar\3_AckermanFunction\3_AckermanFunction.csproj", "{29E048D9-22EF-41F6-9621-F189DA38963B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_Seminar", "10_Seminar", "{46BBFA08-5A32-4796-AF93-691D16B99A21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_ConvertBinaryToDecimal", "introduction-with-csharp\10_Seminar\1_ConvertBinaryToDecimal\1_ConvertBinaryToDecimal.csproj", "{FDD30A10-273E-4139-8672-3A5D220896D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -206,6 +210,10 @@ Global
 		{29E048D9-22EF-41F6-9621-F189DA38963B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E048D9-22EF-41F6-9621-F189DA38963B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E048D9-22EF-41F6-9621-F189DA38963B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD30A10-273E-4139-8672-3A5D220896D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD30A10-273E-4139-8672-3A5D220896D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD30A10-273E-4139-8672-3A5D220896D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD30A10-273E-4139-8672-3A5D220896D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -240,6 +248,7 @@ Global
 		{24BE2974-CB95-4995-9083-D1304F141B21} = {E74F7D67-2796-4602-BB07-5BA8DE98BA92}
 		{EB4FDF31-6BA4-47E3-8F19-0EB986BA031D} = {E74F7D67-2796-4602-BB07-5BA8DE98BA92}
 		{29E048D9-22EF-41F6-9621-F189DA38963B} = {E74F7D67-2796-4602-BB07-5BA8DE98BA92}
+		{FDD30A10-273E-4139-8672-3A5D220896D0} = {46BBFA08-5A32-4796-AF93-691D16B99A21}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
