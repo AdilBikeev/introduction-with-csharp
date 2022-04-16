@@ -18,4 +18,5 @@
 7. [Семинар 7 "Урок 7. Как не нужно писать код. Часть 1"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/7_Seminar)
 8. [Семинар 8 "Урок 8. Как не нужно писать код. Часть 2"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/8_Seminar)
 9. [Семинар 9 "Урок 9. Как не нужно писать код. Часть 3"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/9_Seminar)
-9. [Семинар 10 "Урок 10. Рекурсия продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/10_Seminar)
+10. [Семинар 10 "Урок 10. Рекурсия продолжение"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/10_Seminar)
+11. [Семинар 11 "Урок 11. C#: от простого к практике"](https://github.com/AdilBikeev/introduction-with-csharp/tree/master/introduction-with-csharp/11_Seminar)

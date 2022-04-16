@@ -94,6 +94,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_Seminar", "11_Seminar", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_IsDegreeTwo", "introduction-with-csharp\11_Seminar\1_IsDegreeTwo\1_IsDegreeTwo.csproj", "{DB82884A-2F25-4C6E-ADBB-1068A346C0ED}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_IsPrimeNumber", "introduction-with-csharp\11_Seminar\2_IsPrimeNumber\2_IsPrimeNumber.csproj", "{DBFF4E7B-E087-4B26-923E-BD69DA506883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,6 +230,10 @@ Global
 		{DB82884A-2F25-4C6E-ADBB-1068A346C0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB82884A-2F25-4C6E-ADBB-1068A346C0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB82884A-2F25-4C6E-ADBB-1068A346C0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFF4E7B-E087-4B26-923E-BD69DA506883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFF4E7B-E087-4B26-923E-BD69DA506883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFF4E7B-E087-4B26-923E-BD69DA506883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFF4E7B-E087-4B26-923E-BD69DA506883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +271,7 @@ Global
 		{FDD30A10-273E-4139-8672-3A5D220896D0} = {46BBFA08-5A32-4796-AF93-691D16B99A21}
 		{CD814CE3-3A19-4A4F-AE10-7618E9F581CE} = {46BBFA08-5A32-4796-AF93-691D16B99A21}
 		{DB82884A-2F25-4C6E-ADBB-1068A346C0ED} = {8C56AAF7-917B-44E3-ADDA-E5E0D275E47F}
+		{DBFF4E7B-E087-4B26-923E-BD69DA506883} = {8C56AAF7-917B-44E3-ADDA-E5E0D275E47F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {791B56D8-DDD0-44A3-A868-405B3686B835}
